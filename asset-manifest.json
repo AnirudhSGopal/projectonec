@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projectonec/static/css/main.a0c98b01.css",
+    "main.js": "/projectonec/static/js/main.edadfbba.js",
+    "static/media/Group2.png": "/projectonec/static/media/Group2.b5a788f57bfb99603629.png",
+    "static/media/cs.png": "/projectonec/static/media/cs.5ac7f49ae73e669555c1.png",
+    "static/media/background1.png": "/projectonec/static/media/background1.7902c36ee728014b89e8.png",
+    "static/media/phone5.png": "/projectonec/static/media/phone5.98dfab122ddbd6e7fc0c.png",
+    "static/media/Frame693new.png": "/projectonec/static/media/Frame693new.9e280317ba3fc8bfe888.png",
+    "static/media/Media.png": "/projectonec/static/media/Media.3722be1489c694e8975d.png",
+    "static/media/entrepreneurs.png": "/projectonec/static/media/entrepreneurs.b8b3a4abb9c05960c50e.png",
+    "static/media/womenclean.png": "/projectonec/static/media/womenclean.8561c1f57acefe92a24c.png",
+    "static/media/gymowner.png": "/projectonec/static/media/gymowner.20170e8241d24e74877b.png",
+    "static/media/google.svg": "/projectonec/static/media/google.adb675aeab1f77468d4a951a4064dfe8.svg",
+    "static/media/apple.svg": "/projectonec/static/media/apple.eefc085898c2d427b451c980d25e605d.svg",
+    "index.html": "/projectonec/index.html",
+    "main.a0c98b01.css.map": "/projectonec/static/css/main.a0c98b01.css.map",
+    "main.edadfbba.js.map": "/projectonec/static/js/main.edadfbba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c98b01.css",
+    "static/js/main.edadfbba.js"
+  ]
+}
