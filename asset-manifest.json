@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectonec/static/css/main.a0c98b01.css",
-    "main.js": "/projectonec/static/js/main.edadfbba.js",
+    "main.js": "/projectonec/static/js/main.49b1e60d.js",
     "static/media/Group2.png": "/projectonec/static/media/Group2.b5a788f57bfb99603629.png",
     "static/media/cs.png": "/projectonec/static/media/cs.5ac7f49ae73e669555c1.png",
     "static/media/background1.png": "/projectonec/static/media/background1.7902c36ee728014b89e8.png",
@@ -15,10 +15,10 @@
     "static/media/apple.svg": "/projectonec/static/media/apple.eefc085898c2d427b451c980d25e605d.svg",
     "index.html": "/projectonec/index.html",
     "main.a0c98b01.css.map": "/projectonec/static/css/main.a0c98b01.css.map",
-    "main.edadfbba.js.map": "/projectonec/static/js/main.edadfbba.js.map"
+    "main.49b1e60d.js.map": "/projectonec/static/js/main.49b1e60d.js.map"
   },
   "entrypoints": [
     "static/css/main.a0c98b01.css",
-    "static/js/main.edadfbba.js"
+    "static/js/main.49b1e60d.js"
   ]
 }
