@@ -1,0 +1,38 @@
+.socialimg{
+    width: 767.8px;
+    height: 482.02px;
+    margin: 100px;
+    margin-left: 700px;
+    gap: 0px;
+    margin-top: -285px;
+    opacity: 0px;
+    
+}
+.hsocial{
+    font-family: Montserrat;
+font-size: 36px;
+font-weight: 700;
+line-height: 50px;
+text-align: left;
+color:#2952A2 ;
+
+
+}
+
+.s-social{
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+line-height: 28px;
+text-align: justified;
+
+}
+.align-data{
+    width: 507px;
+height: 285px;
+margin-top: 360px;
+margin-left: 150px;
+gap: 0px;
+opacity: 0px;
+
+}

@@ -1,0 +1,38 @@
+body {
+  margin: 0 !important;
+  height: auto;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Target the entire scrollbar */
+::-webkit-scrollbar {
+  width: 5px;  /* Width of the scrollbar */
+}
+
+/* Target the scrollbar track (background) */
+::-webkit-scrollbar-track {
+  background: transparent; /* Transparent track */
+}
+
+/* Target the scrollbar thumb (the scrollable part) */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent scroll thumb */
+  border-radius: 5px; /* Round edges for the thumb */
+}
+
+/* Optional: Hover effect for the scrollbar thumb */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.7); /* Darker on hover */
+}
+
+/* Optional: Active effect when the user clicks the thumb */
+::-webkit-scrollbar-thumb:active {
+  background: rgba(0, 0, 0, 0.9); /* Darker when active */
+}
+
+/* Import Montserrat font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Import Bootstrap */
+@import 'bootstrap/dist/css/bootstrap.min.css';

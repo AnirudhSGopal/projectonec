@@ -1,0 +1,105 @@
+.questions{
+    width: 1242px;
+    height: 550px;
+    margin-top: 100px;
+    margin-left: 99px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+.qfont{
+    font-family: Montserrat;
+font-size: 30px;
+font-weight: 700;
+line-height: 60px;
+text-align: center;
+color:#2952A2 ;
+
+
+}
+
+
+.fontalign{
+    width: 746px;
+    height: 70px;
+    margin-top: 75px;
+    margin-left: 250px;
+    gap: 10px;
+    opacity: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.fontstyle{
+    font-family: Montserrat;
+font-size: 20px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+
+
+}
+.card-body {
+    width: 566px;
+    color: black;
+    height: 122px;
+  }
+  
+  /* Customize the card header and button for alignment */
+  .card-header {
+    background-color: #f8f9fa; /* Light gray background for headers */
+    text-align: left; /* Align text to the left */
+  }
+  
+  /* Adjust button in the header for alignment */
+.card-header .btn {
+padding: 10px;
+color: black;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 60px;
+text-align: left;
+
+  }
+  
+  /* Add margin between cards */
+  .cardsalign {
+    margin-bottom: 15px;
+  }
+  
+  /* Style for row to manage the card spacing */
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+   
+  }
+  
+  /* Ensure that columns have the proper spacing and alignment */
+ 
+  .col-md-6 {
+    padding-left: 15px;  /* Add some padding to create space */
+    padding-right: 15px; /* This will add space between the columns */
+  }
+  
+  
+  /* Align the FAQ question cards */
+  .container {
+    margin-bottom: 100px;
+    max-width: 1140px;
+    margin: auto;
+  }
+
+
+  
+  /* Align the question content nicely */
+  .card {
+    margin-bottom: 10px;
+    
+    border-radius: 16px; /* Add the desired border radius */
+    overflow: hidden; 
+    gap: 10px;
+  }
+ 

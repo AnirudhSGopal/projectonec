@@ -1,0 +1,55 @@
+.phone{
+    width: 687px;
+height: 760px;
+margin-top: 700px;
+margin-left: 117px;
+gap: 0px;
+opacity: 0px;
+
+}
+.phonealign{
+ margin-top: -500px;   
+}
+.align-font{
+    font-family: Montserrat;
+font-size: 36px;
+font-weight: 700;
+line-height: 50px;
+text-align: left;
+color:  #2952A2;
+
+}
+.font-align{
+width: 493px;
+height: 133px;
+margin-top: -425px;
+margin-left: 900px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.s-head{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+line-height: 28px;
+text-align: justified;
+
+}
+.sub-align{
+    width: 464.77px;
+height: 154px;
+margin-left: 900.94px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card-body{
+    width: 320px;
+    color: black;
+    height: 122px;
+}
+.card-text{
+    margin-left: -10px;
+}

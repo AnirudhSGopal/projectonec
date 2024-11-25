@@ -1,0 +1,129 @@
+.align-playstore{
+    margin-top:100px ;
+}
+
+.wordpage1{
+    width: 662px !important;
+    margin-top: -365px;
+    
+    margin-left: 150px;
+}
+.page1{
+    font-size: 36px;
+font-weight: 700;
+line-height: 55px;
+text-align: left;
+    
+    color: #2952A2;
+font-family: 'Montserrat', sans-serif;
+}
+.subscription{
+    color:  #3B9B7F;
+    
+}
+
+.page12 {
+
+    width: 664px !important;
+    margin-left: 395px;
+    height: 664px;
+    margin-top: -250px;
+}
+.subheading{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 14px;
+    text-align: justified;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+
+.frame1{
+    height: 84px;
+    align-items: center;
+    justify-content: center;
+    width:250px ;
+    background-color: #2952A2;
+    border-radius: 15px;
+    gap: 5px;
+    margin-top: 50px;
+}
+.frame2{
+    height: 84px;
+    width:250px ;
+    background-color: #2952A2;
+    border-radius: 15px;
+    gap: 5px;
+}
+
+
+
+.frame1 {
+    display: inline-block;
+    background-color: #2952A2;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 140px;
+  }
+  .frame2 {
+    display: inline-block;
+    background-color: #2952A2;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 24px;
+  }
+
+.google-button{
+    font-family: Montserrat;
+font-size: 21px;
+font-weight: 700;
+line-height: 28px;
+text-align: justified;
+
+}
+.get1{
+    font-family: Montserrat;
+font-size: 11px;
+font-weight: 600;
+line-height: 28px;
+text-align: justified;
+
+}
+.google{
+    width: 49px;
+height: 49px;
+margin-left: -165px;
+
+gap: 0px;
+opacity: 0px;
+
+}
+.apple{
+    width: 52px;
+height: 52px;
+
+margin-left: -160px;
+gap: 0px;
+opacity: 0px;
+
+}
+.alignbutton1{
+    margin-top: -52px;
+    margin-left: 41px;
+}
+.alignbutton2{
+    margin-top: -52px;
+    margin-left: 41px;
+}
